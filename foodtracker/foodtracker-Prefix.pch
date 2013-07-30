@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'foodtracker' target in the 'foodtracker' project
+//
+
+#ifdef __OBJC__
+  #import <Cocoa/Cocoa.h>
+#endif
